@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "mopti.dev's blog"
+title                    : "MOPTI.DEV Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "mopti"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "MOPTI"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Lee Jinhee"
+  avatar           : "/assets/images/profile_cow.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Strive to make a **wonderful** app"
-  location         : ""
+  location         : "South Korea"
   email            : "wonderful@mopti.dev"
   links:
     - label: "Email"
