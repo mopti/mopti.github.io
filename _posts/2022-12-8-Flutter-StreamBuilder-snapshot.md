@@ -1,4 +1,4 @@
-## snapshot
+## snapshot data type
 
 ### [1] snapshot
 ```dart
