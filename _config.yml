@@ -20,7 +20,7 @@ title                    : "MOPTI.DEV BLOG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MOPTI.DEV"
-description              : "I am developing **wonderful** apps with the help of my precious firends, Flutter, Kotlin and Python."
+description              : "I am developing **wonderful** apps with the help of my dear firends, Flutter, Kotlin and Python."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Lee Jinhee"
   avatar           : "/assets/images/profile_redpig.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am developing **wonderful** apps with the help of my precious firends, Flutter, Kotlin and Python."
+  bio              : "I am developing **wonderful** apps with the help of my dear firends, Flutter, Kotlin and Python."
   location         : "South Korea"
   email            : "wonderful@mopti.dev"
   links:
