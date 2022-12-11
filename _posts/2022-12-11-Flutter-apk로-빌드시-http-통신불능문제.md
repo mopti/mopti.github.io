@@ -1,5 +1,6 @@
 ## Problem
-- Http Package를 사용한 app을 apk로 빌드한 후 핸드폰에서 실행하면 통신이 되지 않는 문제 발생.
+- Http Package를 사용한 app을 apk로 빌드한 후 Physical Device에서 실행하면 통신이 되지 않는 문제 발생.
+- Emulator에서는 정상작동 함.
 
 ## Solution
 ```dart
