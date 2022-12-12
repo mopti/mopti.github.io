@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Lee Jinhee"
-  avatar           : "/assets/images/profile_redpig.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile_cow.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am developing **wonderful** apps with the help of my dear firends, Flutter, Kotlin and Python."
   location         : "South Korea"
   email            : "wonderful@mopti.dev"
